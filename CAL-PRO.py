@@ -25,3 +25,5 @@ elif operation == "Divide":
 
 # Display the result
 st.write("The result is:", result)
+
+
